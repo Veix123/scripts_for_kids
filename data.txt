@@ -1,0 +1,30 @@
+be,was/were,been,olema
+become,became,become,saama (kellekski)
+beat,beat,beaten,lööma
+begin,began,begun,algama
+break,broke,broken,murduma
+bring,brought,brought,tooma
+bite,bit,bitten,hammustama
+build,built,built,ehitama
+buy,bought,bought,ostma
+can,could,could,"saama, võima"
+catch,caught,caught,püüdma
+choose,chose,chosen,valima
+come,came,come,tulema
+cost,cost,cost,maksma
+cut,cut,cut,lõikama
+dig,dug,dug,kaevama
+do,did,done,tegema
+draw,drew,drawn,joonistama
+drink,drank,drunk,jooma
+drive,drove,driven,sõitma
+eat,ate,eaten,sööma
+fall,fell,fallen,kukkuma
+feed,fed,fed,toitma
+feel,felt,felt,tundma
+find,found,found,leidma
+fight,fought,fought,kaklema
+fly,flew,flown,lendama
+forget,forgot,forgotten,unustama
+get,got,got,saama (midagi)
+give,gave,given,andma
