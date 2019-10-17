@@ -37,10 +37,10 @@ try:
                 print("Vale\n")
                 points_available=0
 except KeyboardInterrupt:
-    print("VALMIS! Punkte kokku: " + str(points) + "/" + str(tries))
+    print("VALMIS! Punkte kokku: " + str(points) + "/" + str(tries) + " = " + str(points/float(tries) * 100) + "%")
     sys.exit()
 
 
 
 
-print("VALMIS! Punkte kokku: " + str(points) + "/" + str(tries))
+    print("VALMIS! Punkte kokku: " + str(points) + "/" + str(tries) + " = " + str(points/float(tries) * 100) + "%")
